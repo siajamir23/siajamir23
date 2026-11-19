@@ -1,7 +1,7 @@
 
 # Hi, I'm Jamir Sia 👋
 
-💻 Data Analyst II | Aspiring Data Engineer  
+💻 Data Engineer | Data Analyst II
 🔭 Currently building data engineering projects using Python, PySpark, Databricks, and SQL  
 🌱 Currently exploring Lakehouse Architecture, Apache Spark, ETL/ELT Pipelines, and Cloud Data Engineering  
 ⚡ Interested in Data Engineering, Big Data Processing, Fraud Detection, and Analytics  
@@ -51,19 +51,3 @@ A data engineering project implementing a Medallion Architecture (Bronze, Silver
 **Technologies:** Python, PySpark, Databricks, SQL
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/siajamir23/fraud-detection-lakehouse)
-
-## 📊 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siajamir23&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siajamir23&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=siajamir23&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=siajamir23&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</div>

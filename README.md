@@ -1,77 +1,69 @@
 
-# Hi, I'm Jamir! 👋
+# Hi, I'm Jamir Sia 👋
 
-### Data Engineer | Analytics Engineer
+💻 Data Analyst II | Aspiring Data Engineer  
+🔭 Currently building data engineering projects using Python, PySpark, Databricks, and SQL  
+🌱 Currently exploring Lakehouse Architecture, Apache Spark, ETL/ELT Pipelines, and Cloud Data Engineering  
+⚡ Interested in Data Engineering, Big Data Processing, Fraud Detection, and Analytics  
+👨‍💻 Check out my repositories for hands-on data engineering and software development projects!
 
-I'm a Data Analyst II at LexisNexis Risk Solutions, working primarily on data engineering and analytics solutions within the fraud detection and risk analytics domain.
+## 🌐 Connect with Me:
 
-I enjoy building data pipelines, transforming complex datasets, and developing scalable data solutions that support analytics and machine learning workflows.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
-Currently focused on strengthening my Data Engineering skills through hands-on projects involving distributed processing, lakehouse architecture, and cloud data platforms.
+## 💻 Tech Stack:
 
----
+### Programming & Data Processing
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%230074C1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 🛠️ Technical Skills
+### Data Engineering & Cloud
+![Databricks](https://img.shields.io/badge/Databricks-EF3E2F?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure ML](https://img.shields.io/badge/Azure%20Machine%20Learning-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-**Programming & Querying**
-- Python
-- SQL
-- C++
-- Java
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Data Processing**
-- PySpark
-- Pandas
-- NumPy
+### Other Programming Languages & Technologies
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Data Engineering**
-- ETL / ELT
-- Data Pipelines
-- Data Transformation
-- Data Cleaning & Validation
-- Data Modeling
+## 🚀 Featured Projects:
 
-**Platforms & Cloud**
-- Databricks
-- Azure Machine Learning
-- Azure Data Services
-- Delta Lake
+### Fraud Detection Lakehouse
+A data engineering project implementing a Medallion Architecture (Bronze, Silver, and Gold) for fraud detection and risk analytics.
 
-**Development Tools**
-- Git & GitHub
-- Google Apps Script
-- AI-assisted, spec-driven development
+**Technologies:** Python, PySpark, Databricks, SQL
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/siajamir23/fraud-detection-lakehouse)
 
-### 🚀 Featured Projects
+## 📊 GitHub Stats:
 
-**Fraud Detection Lakehouse**
-- Building an end-to-end fraud detection data pipeline using synthetic banking data.
-- Implementing Medallion Architecture (Bronze, Silver, Gold).
-- Using PySpark, Delta Lake, Unity Catalog, and Databricks.
-- Developing data quality checks and analytics-ready datasets.
-
-🔗 [View Repository](https://github.com/siajamir23/fraud-detection-lakehouse)
-
----
-
-### 🎓 Education
-
-**Bachelor of Science in Computer Science**
-Specialization in Cyber Security and Forensics  
-Asia Pacific College | 2024
-
-- Academic Distinction Awardee
-- Dean's Lister (AY 2020–2023)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siajamir23&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siajamir23&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=siajamir23&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</div>
 
 ---
 
-### 📫 Connect With Me
-
-- LinkedIn: [Jamir Sia](https://www.linkedin.com/in/jamir-sia-122357207/)
-- GitHub: [@siajamir23](https://github.com/siajamir23)
-
----
-
-*Always learning, building, and improving.*
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=siajamir23&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</div>
